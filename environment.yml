@@ -13,4 +13,5 @@ dependencies:
     - sklearn
     - openpyxl
     - seaborn
+    - shapiro
     
