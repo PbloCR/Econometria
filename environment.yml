@@ -12,4 +12,5 @@ dependencies:
     - wooldridge
     - sklearn
     - openpyxl
+    - seaborn
     
